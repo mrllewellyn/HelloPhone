@@ -1,0 +1,4 @@
+syntax: glob
+HelloPhone/Video.mp4
+HelloPhone/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+HelloPhone/obj/Debug/DesignTimeResolveAssemblyReferences.cache
