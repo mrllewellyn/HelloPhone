@@ -40,8 +40,8 @@
         <!-- By using different protocols like http or mailto you can invoke the respective applications -->
         <!-- The Label attribute defines an additional label placed in front of the hyperlink -->
         <!-- Use this to provide contact/support details for your app -->
-        <Link NavigateUri="http://winhowtotugwar.codeplex.com/"
-              Content="http://winhowtotugwar.codeplex.com/"
+        <Link NavigateUri="https://github.com/mrllewellyn/HelloPhone"
+              Content="https://github.com/mrllewellyn/HelloPhone"
               Label="Web:" />
         <Link NavigateUri="mailto:tugwar.winht@outlook.com"
               Content="tugwar.winht@outlook.com"
